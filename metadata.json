@@ -1,0 +1,6 @@
+{
+  "name": "Money Quest",
+  "description": "Follow the money. Find the hidden network. An underground retro pixel-art cybersecurity and financial investigation game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
